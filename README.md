@@ -64,5 +64,136 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-contactlint-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://contactlint.com/
+ContactLint provides an email and phone validation API and hosted MCP server for developers and AI agents. It checks syntax, DNS, MX records, disposable domains, role addresses, and phone formats, offering a free tier of 100 checks per month and paid credit packs. The service is operated by Crypto Boutique LLC and includes documentation, pricing, terms, and privacy policies accessible via its website.
+
+**Areas:** Email Validation · Phone Validation · API · MCP · Developer Tools · Company
+
+## contactlint-com on APIs.io
+
+Everything profiled for contactlint-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/contactlint-com/](https://apis.io/providers/contactlint-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (15)
+
+- [ContactLint API](https://apis.io/apis/contactlint-com/contactlint-api/) — Email and phone validation API
+- [contactlint-com Demo API](https://apis.io/apis/contactlint-com/contactlint-com-demo-api/) — The Demo API from contactlint-com — 1 operation(s) for demo.
+- [contactlint-com Demo Preview API](https://apis.io/apis/contactlint-com/contactlint-com-demo-preview-api/) — The Demo Preview API from contactlint-com — 1 operation(s) for demo preview.
+- [contactlint-com Demo Preview Rotation API](https://apis.io/apis/contactlint-com/contactlint-com-demo-preview-rotation-api/) — The Demo Preview Rotation API from contactlint-com — 1 operation(s) for demo preview rotation.
+- [contactlint-com Domain API](https://apis.io/apis/contactlint-com/contactlint-com-domain-api/) — The Domain API from contactlint-com — 5 operation(s) for domain.
+- [contactlint-com Go API](https://apis.io/apis/contactlint-com/contactlint-com-go-api/) — The Go API from contactlint-com — 1 operation(s) for go.
+- [contactlint-com Health API](https://apis.io/apis/contactlint-com/contactlint-com-health-api/) — The Health API from contactlint-com — 1 operation(s) for health.
+- [contactlint-com Lookup API](https://apis.io/apis/contactlint-com/contactlint-com-lookup-api/) — The Lookup API from contactlint-com — 1 operation(s) for lookup.
+- [contactlint-com Metrics API](https://apis.io/apis/contactlint-com/contactlint-com-metrics-api/) — The Metrics API from contactlint-com — 1 operation(s) for metrics.
+- [contactlint-com Monitor API](https://apis.io/apis/contactlint-com/contactlint-com-monitor-api/) — The Monitor API from contactlint-com — 4 operation(s) for monitor.
+- [contactlint-com Payment Change Check API](https://apis.io/apis/contactlint-com/contactlint-com-payment-change-check-api/) — The Payment Change Check API from contactlint-com — 6 operation(s) for payment change check.
+- [contactlint-com Report API](https://apis.io/apis/contactlint-com/contactlint-com-report-api/) — The Report API from contactlint-com — 2 operation(s) for report.
+- [contactlint-com Reports API](https://apis.io/apis/contactlint-com/contactlint-com-reports-api/) — The Reports API from contactlint-com — 1 operation(s) for reports.
+- [contactlint-com Robots.txt API](https://apis.io/apis/contactlint-com/contactlint-com-robots-txt-api/) — The Robots.txt API from contactlint-com — 1 operation(s) for robots.txt.
+- [contactlint-com Sitemap.xml API](https://apis.io/apis/contactlint-com/contactlint-com-sitemap-xml-api/) — The Sitemap.xml API from contactlint-com — 1 operation(s) for sitemap.xml.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Contactlint Com Agentic Access](https://apis.io/agentic-access/contactlint-com/contactlint-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Contactlint Com Context](https://apis.io/jsonld/contactlint-com/contactlint-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Contactlint Com Openapi Overlay](https://apis.io/overlays/contactlint-com/contactlint-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [contactlint-com API Rules](https://apis.io/rules/contactlint-com/contactlint-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Contactlint Com Authentication](https://apis.io/security/contactlint-com/contactlint-com-authentication/)
+- [Contactlint Com Domain Security](https://apis.io/security/contactlint-com/contactlint-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Contactlint Com Plans Pricing](https://apis.io/plans/contactlint-com/contactlint-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://contactlint.com/)
+- [Documentation](https://contactlint.com/docs)
+- [API reference](https://contactlint.com/openapi.json)
+- [Pricing](https://contactlint.com/terms)
+- [Sign up](https://contactlint.com/signup)
+- [Terms of service](https://contactlint.com/terms)
+- [Privacy policy](https://contactlint.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 46.6** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.3 |
+| Contract quality | 40.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 73.2 |
+
+**Agent readiness 30.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/contactlint-com/](https://apis.io/providers/contactlint-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for contactlint-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/contactlint-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
